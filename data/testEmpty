@@ -1,0 +1,9 @@
+{
+    "rs": {
+        "currentCustomers": [],
+        "tallyTotalEarnings": 0,
+        "tallyOperatingCosts": 0,
+        "tallyNetProfit": 0
+    },
+    "m": {"items": []}
+}

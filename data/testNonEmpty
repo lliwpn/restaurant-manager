@@ -1,0 +1,28 @@
+{
+    "rs": {
+        "currentCustomers": [{
+            "plates": [{
+                "operatingPrice": 6,
+                "price": 10,
+                "id": "blue"
+            }],
+            "name": "customerB",
+            "age": 2
+        }],
+        "tallyTotalEarnings": 14,
+        "tallyOperatingCosts": 8,
+        "tallyNetProfit": 6
+    },
+    "m": {"items": [
+        {
+            "operatingPrice": 1,
+            "price": 2,
+            "id": "red"
+        },
+        {
+            "operatingPrice": 6,
+            "price": 10,
+            "id": "blue"
+        }
+    ]}
+}

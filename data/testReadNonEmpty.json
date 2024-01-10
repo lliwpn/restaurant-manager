@@ -1,0 +1,28 @@
+{
+    "rs": {
+        "currentCustomers": [{
+            "plates": [{
+                "operatingPrice": 1,
+                "price": 1.5,
+                "id": "platefetch"
+            }],
+            "name": "customer",
+            "age": 30
+        }],
+        "tallyTotalEarnings": 1230.57,
+        "tallyOperatingCosts": 503.80,
+        "tallyNetProfit": 726.77
+    },
+    "m": {"items": [
+        {
+            "operatingPrice": 1,
+            "price": 1.5,
+            "id": "platefetch"
+        },
+        {
+            "operatingPrice": 5,
+            "price": 6,
+            "id": "platefetch2"
+        }
+    ]}
+}

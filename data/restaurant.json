@@ -1,0 +1,17 @@
+{
+    "rs": {
+        "currentCustomers": [{
+            "plates": [],
+            "name": "hghg",
+            "age": 0
+        }],
+        "tallyTotalEarnings": 2,
+        "tallyOperatingCosts": 1,
+        "tallyNetProfit": 1
+    },
+    "m": {"items": [{
+        "operatingPrice": 0.5,
+        "price": 1,
+        "id": "uhu"
+    }]}
+}
